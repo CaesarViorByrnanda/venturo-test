@@ -1,0 +1,5 @@
+@media (prefers-color-scheme: dark) {
+  #favicon {
+    content: url("images/INI_LOGO.png");
+  }
+}
